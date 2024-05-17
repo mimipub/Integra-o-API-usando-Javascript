@@ -1,8 +1,11 @@
 # projeto integrando API usando Javascript e Bootstrap.
 
-Nesse projeto voce será capaz de fazer uma pesquisa via CEP.
+Nesse projeto você será capaz de fazer uma pesquisa do lugar onde você reside e também receberá de forma instantânea os dados, isso somente colocando seu CEP.
 
 ## Link
 Acesse:
 
 você terá ao conteúdo final do projeto.
+
+###Descrição
+utilizei API do Via CEP e API open meteo.
