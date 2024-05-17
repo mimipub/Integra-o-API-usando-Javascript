@@ -7,5 +7,4 @@ Acesse:
 
 você terá ao conteúdo final do projeto.
 
-###Descrição
-utilizei API do Via CEP e API open meteo.
+API do Via CEP e API open meteo.
